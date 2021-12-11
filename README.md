@@ -1,0 +1,1 @@
+# my-webpack-ts-eslint--empty-project
